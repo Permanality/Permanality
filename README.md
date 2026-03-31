@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Lucas<br><br>🔭 I’m currently working on **nothing**  <br>🌱 I’m learning **TypeScript**  <br>👯 I collaborate on **Roblox Lua scripts and executors**  <br>💬 Ask me about **Python, Roblox, or C++**  <br>📫 Reach me on Discord: **nevrloose**  <br>😄 Pronouns: **he/him**<br>
+# Hi there 👋, I'm Lucas<br><br>🔭 I’m currently working on **nothing**  <br>🌱 I’m learning **TypeScript**  <br>👯 I collaborate on **Roblox games and executors**  <br>💬 Ask me about **Python, Roblox, or C++**  <br>📫 Reach me on Discord: **nevrloose**  <br>😄 Pronouns: **he/him**<br>
 
 
 ## 🌐 Socials:
